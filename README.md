@@ -26,3 +26,4 @@ print('Col:',len(f.axes[1]))
 ![WhatsApp Image 2023-12-25 at 16 19 23_9190fbfd](https://github.com/MounishT/Read-from-CSV/assets/138955798/67f6ebe7-5c09-4748-a0de-0e9d2709cd35)
 
 ## RESULT:
+Thus a python program is written to read the contents of a csv file
