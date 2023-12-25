@@ -13,12 +13,14 @@ Import pandas as pd.
 ## PROGRAM:
 Developed by: T MOUNISH
 Ref.no:23002806
+```
 import pandas as pd
 f=pd.read_csv("/content/nba (2).csv")
 print(f.head(10))
 print(f.tail())
 print('Row:',len(f.axes[0]))
 print('Col:',len(f.axes[1]))
+```
 ## OUTPUT:
 
 ![WhatsApp Image 2023-12-25 at 16 19 23_9190fbfd](https://github.com/MounishT/Read-from-CSV/assets/138955798/67f6ebe7-5c09-4748-a0de-0e9d2709cd35)
